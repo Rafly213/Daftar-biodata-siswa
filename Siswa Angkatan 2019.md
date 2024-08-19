@@ -1,5 +1,5 @@
  nama    : acong purnomo 
- nim     : H200021
+ nim     : H3000865
  JK      : Laki - Laki 
  Agama   : Islam 
  TTL     : Medan , 19 agustus 2003
@@ -17,7 +17,7 @@
  JK      : Perempuan 
  Agama   : China
  TTL     : Perumnas Maandala , 03 Maret 2002
- Alamat  : jln. Denai Asri RT.03 No.01
+ Alamat  : jln. perumnas mandala RT.03 No.02
 
  
  
